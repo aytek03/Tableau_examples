@@ -10,3 +10,17 @@ Tableau_examples
 4- Kayıtlı form bilgilerinden, ülke ve reklam kaynağı oranı (Utm Source).
 
 5- İlave Örnekler
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S1/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S2/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S3/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S4/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S5a/Sheet6?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S5b/Sheet7?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/aytekin_yildizhan_rapor_S5c/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link
